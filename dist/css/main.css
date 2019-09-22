@@ -11,8 +11,8 @@
   overflow: hidden;
   /*align-items: center;
     text-align: center;*/
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.1)), to(rgba(39, 39, 39, 0.6))), url("../img/model-1.png") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.1), rgba(39, 39, 39, 0.6)), url("../img/model-1.png") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.1)), to(rgba(39, 39, 39, 0.6))), url("../img/thomas_shelby_cover.png") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.1), rgba(39, 39, 39, 0.6)), url("../img/thomas_shelby_cover.png") center top;
   background-size: cover;
 }
 
@@ -206,8 +206,8 @@
 .about__bio-image {
   height: 50vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/model-1.png") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/model-1.png") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/thomas_shelby_cover.png") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/thomas_shelby_cover.png") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -292,8 +292,8 @@
 .projects__bio-image {
   height: 30vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/model-1.png") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/model-1.png") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/thomas_shelby_cover.png") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/thomas_shelby_cover.png") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -505,8 +505,8 @@
   overflow: hidden;
   /*align-items: center;
     text-align: center;*/
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/9ajQxbY28xuFPUoPfNXH2f8Cyi4.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/9ajQxbY28xuFPUoPfNXH2f8Cyi4.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/michael_gray_cover.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/michael_gray_cover.jpg") center top;
   background-size: cover;
 }
 
@@ -544,8 +544,8 @@
   overflow: hidden;
   /*align-items: center;
     text-align: center;*/
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/p07l1zgq.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/p07l1zgq.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/polly_gray_cover.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/polly_gray_cover.jpg") center top;
   background-size: cover;
 }
 
@@ -583,8 +583,8 @@
   overflow: hidden;
   /*align-items: center;
     text-align: center;*/
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/RLR_BEM311017peaky_06.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/RLR_BEM311017peaky_06.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/finn_shelby_cover.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/finn_shelby_cover.jpg") center top;
   background-size: cover;
 }
 
@@ -622,8 +622,8 @@
   overflow: hidden;
   /*align-items: center;
     text-align: center;*/
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/97e72b81d7d91f6e89b45f1dd5a52b6f.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/97e72b81d7d91f6e89b45f1dd5a52b6f.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/john_shelby_cover.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/john_shelby_cover.jpg") center top;
   background-size: cover;
 }
 
@@ -661,8 +661,8 @@
   overflow: hidden;
   /*align-items: center;
     text-align: center;*/
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/arthur-sheby-picture-1567784289.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/arthur-sheby-picture-1567784289.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.2)), to(rgba(39, 39, 39, 0.9))), url("../img/arthur_shelby_cover.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.2), rgba(39, 39, 39, 0.9)), url("../img/arthur_shelby_cover.jpg") center top;
   background-size: cover;
 }
 
