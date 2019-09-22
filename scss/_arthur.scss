@@ -1,0 +1,43 @@
+.arthur_shelby {
+    height: 100%;
+    padding-top: 60vh;
+    overflow: hidden;
+    /*align-items: center;
+    text-align: center;*/
+    background: 
+        linear-gradient(
+            to right,
+            rgba($primary-color, 0.2),
+            rgba($primary-color, 0.9)
+        ),
+        url('../img/arthur_shelby_cover.jpg') center top;
+    background-size: cover;
+
+    &__title {
+        position: absolute;
+        top: 46%;
+        right: 26%;
+    }
+
+    &__name {
+        font-size: 5rem;
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+        position: absolute;
+        top: 50%;
+        right: 14%;
+
+        &--last {
+            color: $secondary-color;
+            font-weight: 700;
+        }
+    }
+
+    &__cite {
+        text-align: justify;
+        position: absolute;
+        top: 65%;
+        left: 40%;
+        right: 3%;
+    }
+}
